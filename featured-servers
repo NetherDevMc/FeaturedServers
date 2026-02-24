@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NetherGames",
+    "address": "play.nethergames.org",
+    "port": 19132,
+    "description": "The #1 Bedrock Server",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/netherlink-servers/main/icons/nethergames.png",
+    "sponsored": true,
+    "websiteUrl": "https://nethergames.org"
+  },
+  {
+    "name": "HiveMC",
+    "address": "geo.hivebedrock.network",
+    "port": 19132,
+    "description": "Minigames & more",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/netherlink-servers/main/icons/hive.png",
+    "sponsored": false,
+    "websiteUrl": "https://playhive.com"
+  }
+]
