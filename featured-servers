@@ -1,20 +1,20 @@
 [
   {
-    "name": "NetherGames",
-    "address": "play.nethergames.org",
+    "name": "CosmosMC",
+    "address": "mc.cosmosmc.org",
     "port": 19132,
     "description": "The #1 Bedrock Server",
-    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/netherlink-servers/main/icons/nethergames.png",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/FeaturedServers/main/icons/cosmosmc.png",
     "sponsored": true,
-    "websiteUrl": "https://nethergames.org"
+    "websiteUrl": "https://cosmosmc.org"
   },
   {
-    "name": "HiveMC",
-    "address": "geo.hivebedrock.network",
+    "name": "GeyserMC",
+    "address": "test.geysermc.org",
     "port": 19132,
-    "description": "Minigames & more",
-    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/netherlink-servers/main/icons/hive.png",
+    "description": "Test Server",
+    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/FeaturedServers/main/icons/geysermc.png",
     "sponsored": false,
-    "websiteUrl": "https://playhive.com"
+    "websiteUrl": "https://geysermc.org"
   }
 ]
