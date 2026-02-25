@@ -7,14 +7,5 @@
     "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/FeaturedServers/main/icons/cosmosmc.png",
     "sponsored": true,
     "websiteUrl": "https://cosmosmc.org"
-  },
-  {
-    "name": "GeyserMC",
-    "address": "test.geysermc.org",
-    "port": 19132,
-    "description": "Test Server",
-    "iconUrl": "https://raw.githubusercontent.com/NetherDevMc/FeaturedServers/main/icons/geysermc.png",
-    "sponsored": false,
-    "websiteUrl": "https://geysermc.org"
   }
 ]
